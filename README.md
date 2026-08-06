@@ -1,65 +1,86 @@
-<div align="center">
-  <img src="https://giphy.com" width="120" alt="Developer GIF" />
+# 👨‍💻 Fernando Henrique
 
-  <br />
+### Software Developer | AI Enthusiast | Computer Science Student
 
-  [![LinkedIn](https://shields.io)](COLE_SEU_LINK_DO_LINKEDIN_AQUI)
+Olá! Sou Fernando Henrique, estudante de Ciência da Computação na FIAP e estudante de Desenvolvimento de Sistema na ETEC
 
-  ![Visitas](https://komarev.com)
-</div>
+Tenho interesse em desenvolvimento de software, Inteligência Artificial e criação de soluções utilizando dados e tecnologia.
 
-# Hello 👋
+Atualmente estudo e desenvolvo projetos envolvendo:
 
-### 👨‍💻 Fernando Henrique
-**Software Developer | AI Enthusiast | Computer Science Student**
+🤖 Inteligência Artificial  
+📚 RAG (Retrieval Augmented Generation)  
+🐍 Python  
+🌐 Desenvolvimento Web  
+🗄️ Banco de Dados  
 
-Olá! Sou Fernando Henrique, estudante de Ciência da Computação na FIAP. Tenho interesse em desenvolvimento de software, Inteligência Artificial e soluções utilizando dados.
-
-Atualmente estou estudando e criando projetos envolvendo:
-* 🤖 **Inteligência Artificial**
-* 📚 **RAG (Retrieval Augmented Generation)**
-* 🐍 **Python**
-* 🌐 **Desenvolvimento Web**
-* 🗄️ **Banco de Dados**
-
----
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Document Assistant — RAG System
-Sistema de perguntas e respostas utilizando documentos PDF.
-* **Tecnologias:** Python • LangChain • LLMs • Vector Database • Google Colab
-* 🔗 [Ver Projeto (Link)](COLE_O_LINK_DO_PROJETO_AQUI)
+### 🤖 GoodWe AI Assistant — RAG System
+
+Sistema inteligente de perguntas e respostas utilizando documentos técnicos em PDF.
+
+O projeto utiliza técnicas de Retrieval Augmented Generation para consultar informações e gerar respostas contextualizadas.
+
+**Tecnologias:**
+
+- Python
+- LangChain
+- LLMs
+- Vector Database
+- Google Colab
+
 
 ### 🌎 LetiCookies Website
-Landing page profissional desenvolvida para negócio real.
-* **Tecnologias:** HTML • CSS • JavaScript • WhatsApp Integration
-* 🔗 [Ver Projeto (Link)](COLE_O_LINK_DO_PROJETO_AQUI)
 
----
+Landing page profissional desenvolvida para um negócio real.
 
-## 🛠️ Technologies & Tools
+**Tecnologias:**
+
+- HTML
+- CSS
+- JavaScript
+- WhatsApp Integration
+
+
+## 🛠️ Technologies
 
 ### Languages
-![Python](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+
+🐍 Python  
+🟨 JavaScript  
+🗄️ SQL  
+🌐 HTML & CSS  
+
 
 ### AI & Data
-![LangChain](https://shields.io) ![Pandas](https://shields.io)
 
-### Development & Tools
-![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io)
+- LangChain
+- RAG
+- Machine Learning
+- Pandas
+- APIs
 
----
+
+### Development
+
+- Git
+- GitHub
+- VS Code
+- REST APIs
+
 
 ## 📫 Contact
 
-* 💼 **LinkedIn:** [Acessar Perfil](COLE_SEU_LINK_DO_LINKEDIN_AQUI)
-* 📧 **Email:** seu_email@exemplo.com
+LinkedIn:
+https://www.linkedin.com/in/fernando-lembo/
 
----
+Email:
+fhlembo@gmail.com
 
-## 📊 My Stats
 
-<div align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
-</div>
+
+## 📊 GitHub Stats
+
+(SEUS CARDS)
