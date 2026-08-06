@@ -1,55 +1,65 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://giphy.com" width="120" alt="Developer GIF" />
+
+  <br />
+
+  [![LinkedIn](https://shields.io)](COLE_SEU_LINK_DO_LINKEDIN_AQUI)
+
+  ![Visitas](https://komarev.com)
 </div>
 
-###
+# Hello 👋
+
+### 👨‍💻 Fernando Henrique
+**Software Developer | AI Enthusiast | Computer Science Student**
+
+Olá! Sou Fernando Henrique, estudante de Ciência da Computação na FIAP. Tenho interesse em desenvolvimento de software, Inteligência Artificial e soluções utilizando dados.
+
+Atualmente estou estudando e criando projetos envolvendo:
+* 🤖 **Inteligência Artificial**
+* 📚 **RAG (Retrieval Augmented Generation)**
+* 🐍 **Python**
+* 🌐 **Desenvolvimento Web**
+* 🗄️ **Banco de Dados**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Document Assistant — RAG System
+Sistema de perguntas e respostas utilizando documentos PDF.
+* **Tecnologias:** Python • LangChain • LLMs • Vector Database • Google Colab
+* 🔗 [Ver Projeto (Link)](COLE_O_LINK_DO_PROJETO_AQUI)
+
+### 🌎 LetiCookies Website
+Landing page profissional desenvolvida para negócio real.
+* **Tecnologias:** HTML • CSS • JavaScript • WhatsApp Integration
+* 🔗 [Ver Projeto (Link)](COLE_O_LINK_DO_PROJETO_AQUI)
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+![Python](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+
+### AI & Data
+![LangChain](https://shields.io) ![Pandas](https://shields.io)
+
+### Development & Tools
+![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io)
+
+---
+
+## 📫 Contact
+
+* 💼 **LinkedIn:** [Acessar Perfil](COLE_SEU_LINK_DO_LINKEDIN_AQUI)
+* 📧 **Email:** seu_email@exemplo.com
+
+---
+
+## 📊 My Stats
 
 <div align="center">
-<a href="https://www.linkedin.com/in/fernando-lembo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fernandolembo.fernandolembo&"  />
-</div>
-
-###
-
-<h1 align="center">Hello👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">My name is Fernando Henrique, a System Developer.  Currently studying Computer Science at FIAP.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fernandolembo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
