@@ -1,70 +1,126 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+
+# Fernando Henrique
+
+### Software Developer · AI Enthusiast · Computer Science Student
+
+I build software, explore artificial intelligence, and turn ideas into practical solutions.
+
+<a href="https://github.com/fernandolembo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/fernando-lembo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fhlembo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/fernando-lembo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.fhlembo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+## About
+
+I'm a **Computer Science student at FIAP** and a **Systems Development student at ETEC**, with a strong interest in software engineering and artificial intelligence.
+
+I enjoy building projects where technology can solve real problems, especially across **AI, backend systems, web applications, data, and intelligent solutions**.
+
+Currently, I'm focused on strengthening my software engineering fundamentals while building practical projects and exploring modern AI technologies.
+
+---
+
+## Featured Projects
+
+### GoodWe ChargeGrid Intelligence
+
+**AI-powered EV charging infrastructure**
+
+A software platform developed as an academic project in partnership with GoodWe, combining artificial intelligence, backend development, databases, web technologies, and IoT.
+
+The project includes an AI assistant, EV charging management, backend APIs, database integration, and an ESP32-based charging simulation.
+
+**Focus:** AI · Backend · IoT · APIs · Databases
+
+**Built with:** Python · FastAPI · Gemini · Supabase · JavaScript · Tailwind CSS · ESP32 · Wokwi
+
+[View project →](https://github.com/Fernandolembo/Goodwe_Chargegrid_Intelligence)
+
+---
+
+### FuturoPlus
+
+**Career development and professional qualification platform**
+
+A multiplatform application designed to help users organize their professional development, track achievements, identify skill gaps, and build personalized career paths.
+
+The project explores cross-platform application development, authentication, cloud databases, and personalized learning experiences.
+
+**Focus:** Mobile · Cross-platform · Firebase · Career Development
+
+**Built with:** Kotlin Multiplatform · Compose Multiplatform · Firebase · Firestore · JavaScript
+
+[View project →](https://github.com/SrEscanor/Futuro-Plus)
+
+---
+
+### LetiCookies
+
+**Business website & digital experience**
+
+A responsive landing page created for a real business, focused on product presentation, visual identity, responsive design, and direct customer communication.
+
+**Focus:** Web Development · UI · Responsive Design
+
+**Built with:** HTML · CSS · JavaScript · WhatsApp Integration
+
+---
+
+## Core Skills
+
+**Software Development**
+Building applications with a focus on clean structure, problem solving, and maintainability.
+
+**Artificial Intelligence**
+Exploring LLM applications, Retrieval-Augmented Generation, AI assistants, and practical AI systems.
+
+**Backend & Data**
+Developing APIs and working with databases to build connected and data-driven applications.
+
+**Web Development**
+Creating responsive and user-focused web experiences.
+
+---
+
+## Currently Learning
+
+* Software Engineering
+* Artificial Intelligence
+* Retrieval-Augmented Generation (RAG)
+* Backend Development
+* System Architecture
+* Databases
+* Cloud Technologies
+* English for Software Engineering
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fernandolembo&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolembo&layout=compact&hide_border=true&theme=transparent" height="165" />
+
 </div>
 
-###
+---
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=fernandolembo.fernandolembo&"  />
+<div align="center">
+
+### Building. Learning. Improving.
+
+<a href="https://github.com/fernandolembo">github.com/fernandolembo</a>
+
 </div>
-
-###
-
-<h1 data-importer="text" align="center">hey there 👋</h1>
-
-###
-
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-
-###
-
-<p data-importer="text" align="left">Software Developer | AI Enthusiast | Computer Science Student<br>Olá! Sou Fernando Henrique, estudante de Ciência da Computação na FIAP e estudante de Desenvolvimento de Sistema na ETEC<br><br>Tenho interesse em desenvolvimento de software, Inteligência Artificial e criação de soluções utilizando dados e tecnologia.<br><br>Atualmente estudo e desenvolvo projetos envolvendo:<br><br> Inteligência Artificial<br> RAG (Retrieval Augmented Generation)<br> Python<br> Desenvolvimento Web<br> Banco de Dados<br><br>----<br><br>Projetos:<br><br>🤖 GoodWe AI Assistant — RAG System<br>Sistema inteligente de perguntas e respostas utilizando documentos técnicos em PDF.<br><br>O projeto utiliza técnicas de Retrieval Augmented Generation para consultar informações e gerar respostas contextualizadas.<br><br>Tecnologias:<br><br>Python<br>LangChain<br>LLMs<br>Vector Database<br>Google Colab<br><br>-----<br><br>🌎 LetiCookies Website<br>Landing page profissional desenvolvida para um negócio real.<br><br>Tecnologias:<br><br>HTML<br>CSS<br>JavaScript<br>WhatsApp Integration</p>
-
-###
-
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=fernandolembo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
